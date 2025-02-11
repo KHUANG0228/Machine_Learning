@@ -1,14 +1,10 @@
 """
-File: boston_housing_competition.py
+File: boston_housing_SVM.py
 Name: Ken
 --------------------------------
-This file demonstrates how to analyze boston
-housing dataset. Students will upload their 
-results to kaggle.com and compete with people
-in class!
-
-You are allowed to use pandas, sklearn, or build the
-model from scratch! Go data scientists!
+Using SVM to predict Boston House Price.
+Can try on different hyperparameters like C and gamma.
+Package: pandas, sklearn
 """
 
 import pandas as pd
