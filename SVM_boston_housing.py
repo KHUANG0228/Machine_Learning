@@ -1,6 +1,3 @@
-"""
-File: boston_housing_competition.py
-Name: Ken
 --------------------------------
 Using SVM to predict Boston House Price.
 Hyperparameters: C, gamma.
