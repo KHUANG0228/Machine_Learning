@@ -5,6 +5,8 @@ Name: Ken
 Using SVM to predict Boston House Price.
 Can try on different hyperparameters like C and gamma.
 Package: pandas, sklearn
+
+C is the penalized hyperparameter.
 """
 
 import pandas as pd
