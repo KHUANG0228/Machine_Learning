@@ -1,6 +1,9 @@
+"""
 --------------------------------
 Using SVM to predict Boston House Price.
 Hyperparameters: C, gamma.
+Prediction Accuracy: 3.31804
+--------------------------------
 
 Package: pandas, sklearn
 """
