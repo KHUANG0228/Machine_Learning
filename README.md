@@ -1,4 +1,4 @@
-Machine Process:
+Machine Learning Process:
 1. Data Preprocessing
 2. Normalizing / Standardizing
 3. Model Selection (SVM, PCA, Decision Tree, etc.)
